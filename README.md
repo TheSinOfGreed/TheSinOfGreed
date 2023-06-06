@@ -1,4 +1,4 @@
 # TheSinOfGreed
 
-Znam: <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,eslint)](https://skillicons.dev)
+![bg](https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/949df3af-da94-463a-863f-881b928d72eb)
+
