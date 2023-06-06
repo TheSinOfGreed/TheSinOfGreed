@@ -1,4 +1,4 @@
-![wallpaperflare com_wallpaper](https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/becd95d0-422c-4e1b-9a7b-565f30f1b822)
+![wp2446015-scottish-castles-wallpapers](https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/2af2a207-9a98-44b1-b42c-8dd7d8592e89)
 
 <h1>Hey there! I'm Kamil</h1>
 
