@@ -30,5 +30,5 @@
 <br>
 
 - **Developer tools**: </br>
-    [![My Skills](https://skillicons.dev/icons?i=docker, postman,git, github, stackoverflow, jquerry, &theme=light)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=docker, postman,git, github, stackoverflow, jquerry&theme=light)](https://skillicons.dev)
 -----
