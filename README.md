@@ -25,8 +25,7 @@
 <br>
 
 - **Backend**: </br>
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,express, mysql, postgres,java&theme=light)](https://skillicons.dev)
-    [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs&theme=light)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
   
 <br>
 
