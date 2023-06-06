@@ -16,21 +16,19 @@
 
 - **Main stack**: </br>
     [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs&theme=light)](https://skillicons.dev)
+    
 <br>   
     
-- **UI Technologies/Technologie UI**: </br>
+- **UI Technologies**: </br>
     [![My Skills](https://skillicons.dev/icons?i=css,sass,styledcomponents,bootstrap,materialui&theme=light)](https://skillicons.dev)
 
-
 <br>
 
-- **UI Technologies/Technologie UI**: </br>
-
-
-    
+- **Backend**: </br>
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,express, mysql, postgres,java&theme=light)](https://skillicons.dev)
+  
 <br>
 
-- **Developer tools/Narzędzia programistyczne**: </br>
-
-
+- **Developer tools**: </br>
+    [![My Skills](https://skillicons.dev/icons?i=docker, postman,git, github, stackoverflow, jquerry, &theme=light)](https://skillicons.dev)
 -----
