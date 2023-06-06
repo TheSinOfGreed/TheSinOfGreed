@@ -14,37 +14,23 @@
 
 <p align="center">
 
-- **Main stack**:
+- **Main stack**: </br>
     [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs&theme=light)](https://skillicons.dev)
 <br>   
     
-- **UI Technologies/Technologie UI**:
+- **UI Technologies/Technologie UI**: </br>
     [![My Skills](https://skillicons.dev/icons?i=css,sass,styledcomponents,bootstrap,materialui&theme=light)](https://skillicons.dev)
 
 
 <br>
 
-- **UI Technologies/Technologie UI**:
+- **UI Technologies/Technologie UI**: </br>
 
 
     
 <br>
 
-- **Developer tools/Narzędzia programistyczne**:
+- **Developer tools/Narzędzia programistyczne**: </br>
 
-
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
 
 -----
