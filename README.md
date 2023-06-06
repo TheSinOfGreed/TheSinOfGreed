@@ -14,21 +14,21 @@
 
 <p align="center">
 
-- **Main stack**: </br>
+- **Main stack**: </br></br>
     [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs&theme=light)](https://skillicons.dev)
     
 <br>   
     
-- **UI Technologies**: </br>
+- **UI Technologies**: </br></br>
     [![My Skills](https://skillicons.dev/icons?i=css,sass,styledcomponents,bootstrap,materialui&theme=light)](https://skillicons.dev)
 
 <br>
 
-- **Backend**: </br>
+- **Backend**: </br></br>
     [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,java&theme=light)](https://skillicons.dev)
   
 <br>
 
-- **Developer tools**: </br>
+- **Developer tools**: </br></br>
     [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github,stackoverflow,jquerry&theme=light)](https://skillicons.dev)
 -----
