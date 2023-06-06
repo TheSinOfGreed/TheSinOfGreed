@@ -1,11 +1,4 @@
 <h2>Hey there! I'm Kamil</h2>
 
-![885030](https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/93e5537c-f0a0-48ea-b1fa-541ffe866e24)
+![wallpaperflare com_wallpaper](https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/becd95d0-422c-4e1b-9a7b-565f30f1b822)
 
-
-### &nbsp;Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,java)](https://skillicons.dev)
-
-### 👨🏻‍💻 &nbsp;Frameworks
-
-### 👨🏻‍💻 &nbsp;Hobby
