@@ -18,7 +18,7 @@
 <br>   
     
 - **UI Technologies**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=css,sass,styledcomponents,bootstrap,materialui&theme=light)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=css,sass,styledcomponents,bootstrap,tailwind&theme=light)](https://skillicons.dev)
 
 <br>
 
