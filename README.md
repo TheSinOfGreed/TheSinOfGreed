@@ -13,12 +13,12 @@
 <p align="center">
 
 - **Main stack**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,angular,redux,reactivex)](https://skillicons.dev)
     
 <br>   
     
 - **UI Technologies**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=css,sass,styledcomponents,bootstrap,tailwind)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap,styledcomponents)](https://skillicons.dev)
 
 <br>
 
@@ -28,5 +28,5 @@
 <br>
 
 - **Developer tools**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github,stackoverflow,jquerry)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,gitlab,github)](https://skillicons.dev)
 -----
