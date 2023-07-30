@@ -13,7 +13,7 @@
 <p align="center">
 
 - **Main stack**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,angular,redux,reactivex)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ts,react,angular,redux,reactivex)](https://skillicons.dev)
     
 <br>   
     
