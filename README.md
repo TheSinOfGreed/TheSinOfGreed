@@ -6,7 +6,7 @@
 
 <br>
 
-- I specialize in front-end development with React and Next.js
+- I specializes professionally as a front-end developer of React library and Angular/Next.js frameworks
 - Computer Science student at the University of Białystok
 - I'm a fan of the history of wars, knights, hoplites, and Roman legionaries etc. in any form, such as books, movies, TV shows, or games
 
