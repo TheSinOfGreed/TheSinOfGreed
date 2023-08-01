@@ -22,11 +22,12 @@
 
 <br>
 
-- **Backend**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,java)](https://skillicons.dev)
+- **Developer tools**: </br></br>
+    [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,gitlab,github)](https://skillicons.dev)
   
 <br>
 
-- **Developer tools**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,gitlab,github)](https://skillicons.dev)
+- **Backend**: </br></br>
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,java)](https://skillicons.dev)
+   
 -----
