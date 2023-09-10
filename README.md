@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
+[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
 - I specializes professionally as a front-end developer of React library and Angular/Next.js frameworks
 - Computer Science student at the University of Białystok
 - I'm a fan of the history of wars, knights, hoplites, and Roman legionaries etc. in any form, such as books, movies, TV shows, or games
