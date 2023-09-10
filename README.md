@@ -14,7 +14,7 @@
 
 
 - **Main stack**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=ts,react,angular,redux,reactivex)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ts,angular,reactivex,react,redux)](https://skillicons.dev)
     
 <br>   
     
