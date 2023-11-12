@@ -29,6 +29,6 @@
 <br>
 
 - **Backend**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgres)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,sequelize,postgres)](https://skillicons.dev)
    
 -----
