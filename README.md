@@ -18,7 +18,7 @@
     
 <br>   
     
-- **UI Technologies**: </br></br>
+- **Favourite UI Technologies**: </br></br>
     [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap,styledcomponents)](https://skillicons.dev)
 
 <br>
