@@ -66,18 +66,14 @@ UI FAV.
 
 <br>
 
-
-
-
-- **Developer tools**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,gitlab,postman)](https://skillicons.dev)
+<div align="center">
+<pre>
+UI FAV.
+</pre>
   
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap)](https://skillicons.dev)
+
+</div>
+
 <br>
-
-- **Backend**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,dotnet,express,sequelize,postgres)](https://skillicons.dev)
-   
------
-
-<br/>
 
