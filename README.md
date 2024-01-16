@@ -33,7 +33,7 @@ Personally a fan of the history of wars and history in general.
 <br>
 <br>
 
-<div align="center" width="40%">
+<div align="center">
 <pre>
 MAIN STACK
 </pre>
@@ -44,7 +44,7 @@ MAIN STACK
 
 <br>
 
-<div align="center" width="40%">
+<div align="center">
 <pre>
 UI FAV.
 </pre>
