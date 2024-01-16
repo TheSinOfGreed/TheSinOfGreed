@@ -33,17 +33,4 @@
    
 -----
 
-### Toolset
-
-<table>
-    <tr>
-        <td>Automation Tooling</td>
-        <td>
-            [![My Skills](https://skillicons.dev/icons?i=ts,angular,reactivex,react,redux)](https://skillicons.dev)
-        </td>
-    </tr>
-
-</table>
-
-
 <br/>
