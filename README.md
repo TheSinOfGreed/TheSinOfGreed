@@ -46,10 +46,10 @@ MAIN STACK
 
 <div align="center">
 <pre>
-UI FAV.
+DEVELOPER TOOLS
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,gitlab,postman)](https://skillicons.dev)
 
 </div>
 
@@ -57,10 +57,10 @@ UI FAV.
 
 <div align="center">
 <pre>
-DEVELOPER TOOLS
+UI FAV.
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,gitlab,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap)](https://skillicons.dev)
 
 </div>
 
