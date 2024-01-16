@@ -27,7 +27,7 @@ Master's degree in computer science on University of Bialystok with defended the
   <li>First item</li>
   <li>Second item</li>
 </ul>
-Specialized in <strong>TypeScript<strong/> and <strong>C#<strong/> language, <strong>node.js<strong/>, <strong>browser mechanics<strong/> and <strong>front-end frameworks (both JS and TS)<strong/>.
+Specialized in <strong>TypeScript<strong/> and <strong>C#<strong/> language, node.js, browser mechanics and front-end frameworks (both JS and TS).
 Personally a fan of the history of wars and history in general.
 
 <br>
