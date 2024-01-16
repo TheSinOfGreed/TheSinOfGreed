@@ -14,6 +14,12 @@
   <img src="https://skillicons.dev/icons?i=ts,angular,reactivex,react,redux" alt="Opis zdjęcia" style="max-width: 300px; height: auto;">
 </div>
 
+<br>
+<br>
+<br>
+<br><br>
+<br>
+
 
 - **Main stack**: </br></br>
     [![My Skills](https://skillicons.dev/icons?i=ts,angular,reactivex,react,redux)](https://skillicons.dev)
