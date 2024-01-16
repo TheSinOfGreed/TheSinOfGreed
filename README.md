@@ -5,7 +5,14 @@
   <h2>Fullstack dev specialized in CSR, SSR and SSG</h2>
 </div>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<br>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    rer
+  </div>
+  <img src="https://skillicons.dev/icons?i=ts,angular,reactivex,react,redux" alt="Opis zdjęcia" style="max-width: 300px; height: auto;">
+</div>
 
 
 - **Main stack**: </br></br>
