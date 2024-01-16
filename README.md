@@ -21,12 +21,14 @@
 
 <img align="right" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
 
-Programmer with 5 years of experience (including 2 commercial experience) working like a fullstack programmer. 
-Master's degree in computer science with defended thesis:
+Programmer with 5 years of experience (including 2 commercial experience) working as a fullstack programmer. 
+Master's degree in computer science on University of Bialystok with defended thesis:
 <ul>
   <li>First item</li>
   <li>Second item</li>
-</ul> 
+</ul>
+Specialized in TypeScript and C# language. React library and Angular/Next frameworks.
+Personally a fan of the history of wars and history in general.
 
 <br>
 <br>
