@@ -12,6 +12,17 @@
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia" style="max-width: 300px; height: auto; margin: auto;">
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia" style="max-width: 300px; height: auto;">
 </p>
+
+<section data-markdown>
+  <textarea data-template>
+    # Testing 
+    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+    </div>
+  </textarea>
+</section>
   
 <br>
 <br>
