@@ -30,10 +30,3 @@
 
 <br/>
 
-<style>
-  h1, h2 {
-    color: #333;
-    margin-bottom: 0;
-    border-bottom: none;
-  }
-</style>
