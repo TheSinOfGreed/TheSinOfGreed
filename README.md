@@ -8,9 +8,15 @@
 <br>
 
 <div>
+
+
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia" style="max-width: 300px; height: auto;">
+  
+  <p align="center">
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia" style="max-width: 300px; height: auto;">
-  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia" style="max-width: 300px; height: auto; float: right">
+  </p>
+  
+  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia" style="max-width: 300px; height: auto;">
 </div>
 
 
