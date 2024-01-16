@@ -32,6 +32,16 @@ Personally a fan of the history of wars and history in general.
 
 <br>
 <br>
+
+<div align="center">
+<pre>
+MAIN STACK
+</pre>
+  
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,next,react)](https://skillicons.dev)
+
+</div>
+
 <br>
 <br>
 <br>
