@@ -1,6 +1,6 @@
 ![wp2446015-scottish-castles-wallpapers](https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/2af2a207-9a98-44b1-b42c-8dd7d8592e89)
 
-<h1>**TheSinOfGreed - TypeScript & Java dev**</h1>
+<h1>TheSinOfGreed - TypeScript & Java dev specialized in CSR, SSR and SSG</h1>
 
 
 
