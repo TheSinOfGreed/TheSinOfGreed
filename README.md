@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1> - TheSinOfGreed - </h1>
-  <h2>TypeScript & Java dev specialized in CSR, SSR and SSG</h2>
+  <h2>Fullstack dev specialized in CSR, SSR and SSG</h2>
 </div>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
