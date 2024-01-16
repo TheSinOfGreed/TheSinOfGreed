@@ -60,7 +60,7 @@ DEVELOPER TOOLS
 BACKEND
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,prisma)](https://skillicons.dev)
 
 </div>
 
