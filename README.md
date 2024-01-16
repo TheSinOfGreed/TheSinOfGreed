@@ -22,7 +22,7 @@
 <img align="right" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
 
 Programmer with 5 years of experience (including 2 commercial experience) working as a fullstack programmer. 
-Master's degree in computer science on University of Bialystok with defended thesis:
+Master's degree in computer science on Polish [University of Bialystok](https://uwb.edu.pl/) with defended thesis:
 <ul>
   <li>First item</li>
   <li>Second item</li>
