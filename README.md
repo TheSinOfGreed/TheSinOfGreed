@@ -54,18 +54,20 @@ UI FAV.
 </div>
 
 <br>
+
+<div align="center">
+<pre>
+DEVELOPER TOOLS
+</pre>
+  
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,gitlab,postman)](https://skillicons.dev)
+
+</div>
+
 <br>
 
 
-- **Main stack**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=ts,angular,reactivex,react,redux)](https://skillicons.dev)
-    
-<br>   
-    
-- **Favourite UI Technologies**: </br></br>
-    [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap,styledcomponents)](https://skillicons.dev)
 
-<br>
 
 - **Developer tools**: </br></br>
     [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,gitlab,postman)](https://skillicons.dev)
