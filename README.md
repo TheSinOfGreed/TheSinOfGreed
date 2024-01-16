@@ -60,7 +60,7 @@ DEVELOPER TOOLS
 UI FAV.
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://skillicons.dev)
 
 </div>
 
