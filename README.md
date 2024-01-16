@@ -7,11 +7,11 @@
 
 <br>
 
-<p align="center">
+<div style="display: flex; flex-direction: row;">
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia">
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia">
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/de17839d-c9ea-4092-ac98-f65c816e9a7d" alt="Opis zdjęcia">
-</p>
+</div>
 
 
   
