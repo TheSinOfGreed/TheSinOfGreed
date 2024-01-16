@@ -43,6 +43,16 @@ MAIN STACK
 </div>
 
 <br>
+
+<div align="center">
+<pre>
+UI FAV.
+</pre>
+  
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap)](https://skillicons.dev)
+
+</div>
+
 <br>
 <br>
 
