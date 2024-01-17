@@ -8,9 +8,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/ea548901-010e-4679-bf33-d1bf6195a071" alt="Opis zdjęcia">
-  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/18fe369c-9d24-40f7-98d8-afe74d5ff806" alt="Opis zdjęcia">
-  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/7ceb1256-94ce-453b-81a5-c917d5b42b20" alt="Opis zdjęcia">
+  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/cf70d86a-cea3-4b3d-a40b-9218d9c88fec" alt="Opis zdjęcia">
+  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/9e625c97-f6dc-4981-ba63-0f017bd016f7" alt="Opis zdjęcia">
+  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/b7cd2fca-f9ad-427b-961c-97790d541f72" alt="Opis zdjęcia">
 </p>
 
 
