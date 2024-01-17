@@ -19,7 +19,7 @@
 
 **Info:**
 
-<img align="right" width="33%" src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/3ca41ad1-c2f3-4cde-adb0-579eb535b65d">
+<img align="right" width="33%" src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/bcb76437-4c38-45b9-8433-cc3ee0f60213">
 
 Programmer with 5 years of experience (including 2 commercial experience) working as a fullstack programmer. 
 Master's degree in computer science on [University of Bialystok](https://uwb.edu.pl/) (Poland/Europe) with defended thesis:
