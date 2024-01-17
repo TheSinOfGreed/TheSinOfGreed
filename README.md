@@ -65,7 +65,7 @@ DEVELOPER TOOLS
 NO COMMERCIAL EXPERIENCE (FROM BEST TO WORST)
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=express,sequelize,prisma,sequalizer,java,php,jquery,python,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,sequelize,prisma,java,php,jquery,python,c,cpp)](https://skillicons.dev)
 
 </div>
 
