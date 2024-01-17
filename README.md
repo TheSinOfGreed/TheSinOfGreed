@@ -63,7 +63,7 @@ DEVELOPER TOOLS
 NO COMMERCIAL EXPERIENCE
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=java,php,jquerry,python,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,jquery,python,c,cpp)](https://skillicons.dev)
 
 </div>
 
