@@ -35,6 +35,8 @@ Master's degree in computer science on [University of Bialystok](https://uwb.edu
 
 <br>
 <br>
+<br>
+<br>
 
 <div align="center">
 <pre>
