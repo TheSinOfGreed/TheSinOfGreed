@@ -60,23 +60,13 @@ DEVELOPER TOOLS
 
 <div align="center">
 <pre>
-BACKEND
+NO COMMERCIAL EXPERIENCE
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,jquerry,python,c,cpp)](https://skillicons.dev)
 
 </div>
 
 <br>
 
-<div align="center">
-<pre>
-UI FAV.
-</pre>
-  
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap)](https://skillicons.dev)
-
-</div>
-
-<br>
 
