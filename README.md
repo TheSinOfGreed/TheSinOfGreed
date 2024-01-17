@@ -28,7 +28,7 @@ Master's degree in computer science on [University of Bialystok](https://uwb.edu
   <li>Second item</li>
 </ul>
 
-<p>Specialized in <strong>TypeScript</strong> and <strong>Java</strong> language, <strong>node.js</strong>, browser mechanics, client/server/static rendering and front-end optimalization.</p>
+<p>Specialized in <strong>TypeScript</strong> and <strong>Java</strong> language, <strong>node.js</strong>, browser mechanics, client/server/static rendering, micro front-end and front-end optimalization.</p>
 
 <p>Personally a fan of the history of wars and history in general.</p>
 
