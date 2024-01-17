@@ -62,7 +62,7 @@ DEVELOPER TOOLS
 
 <div align="center">
 <pre>
-NO COMMERCIAL EXPERIENCE
+NO COMMERCIAL EXPERIENCE (FROM BEST TO WORST)
 </pre>
   
 [![My Skills](https://skillicons.dev/icons?i=java,php,jquery,python,c,cpp)](https://skillicons.dev)
