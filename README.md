@@ -24,8 +24,8 @@
 Programmer with 5 years of experience (including 2 commercial experience) working as a fullstack programmer. 
 Master's degree in computer science on [University of Bialystok](https://uwb.edu.pl/) (Poland/Europe) with defended thesis:
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
+  <li>A system supporting the creation of UML diagrams</li>
+  <li>Optimizing front-end applications using the example of React applications</li>
 </ul>
 
 <p>Specialized in <strong>TypeScript</strong> and <strong>Java</strong> language, <strong>node.js</strong>, browser mechanics, client/server/static rendering, micro front-end and front-end optimalization.</p>
