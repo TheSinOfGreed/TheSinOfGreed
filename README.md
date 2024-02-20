@@ -21,14 +21,13 @@
 
 <img align="right" width="33%" src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/bcb76437-4c38-45b9-8433-cc3ee0f60213">
 
-Programmer with 5 years of experience (including 2 commercial experience) working as a fullstack programmer. 
 Master's degree in computer science on [University of Bialystok](https://uwb.edu.pl/) (Poland/Europe) with defended thesis:
 <ul>
   <li>A system supporting the creation of UML diagrams</li>
   <li>Optimizing front-end applications using the example of React applications</li>
 </ul>
 
-<p>Specialized in <strong>TypeScript</strong> and <strong>Java</strong> language, <strong>node.js</strong>, browser mechanics, client/server/static rendering, micro front-end and front-end optimalization.</p>
+<p>Specialized in <strong>TypeScript</strong> and <strong>.NET</strong>, <strong>node.js</strong>, browser mechanics, client/server/static rendering, micro front-end and front-end optimalization.</p>
 
 <p>Personally a fan of the history of wars and history in general.</p>
 
@@ -43,32 +42,10 @@ Master's degree in computer science on [University of Bialystok](https://uwb.edu
 MAIN STACK
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,next,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,next,react,dotnet)](https://skillicons.dev)
 
 </div>
 
-<br>
 
-<div align="center">
-<pre>
-DEVELOPER TOOLS
-</pre>
-  
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,gitlab,postman)](https://skillicons.dev)
-
-</div>
-
-<br>
-
-<div align="center">
-<pre>
-NO COMMERCIAL EXPERIENCE (FROM BEST TO WORST)
-</pre>
-  
-[![My Skills](https://skillicons.dev/icons?i=express,sequelize,prisma,java,php,jquery,mysql,python,c,cpp,r)](https://skillicons.dev)
-
-</div>
-
-<br>
 
 
