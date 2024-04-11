@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1> - TheSinOfGreed - </h1>
-  <h2>Fullstack dev specialized in CSR, SSR and SSG</h2>
+  <h2>Fullstack dev specialized in front-end optimalization</h2>
 </div>
 
 <br>
@@ -27,7 +27,7 @@ Master's degree in computer science on [University of Bialystok](https://uwb.edu
   <li>Optimizing front-end applications using the example of React applications</li>
 </ul>
 
-<p>Specialized in <strong>TypeScript</strong> and <strong>.NET</strong>, <strong>node.js</strong>, browser mechanics, client/server/static rendering, micro front-end and front-end optimalization.</p>
+<p>Specialized in <strong>TypeScript</strong> and <strong>.NET</strong>, <strong>Angular/React</strong>, browser mechanics, micro front-end and front-end optimalization.</p>
 
 <p>Personally a fan of the history of wars and history in general.</p>
 
