@@ -46,6 +46,13 @@ MAIN STACK
 
 </div>
 
+IN USE
+</pre>
+  
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,postman)](https://skillicons.dev)
+
+</div>
+
 
 
 
