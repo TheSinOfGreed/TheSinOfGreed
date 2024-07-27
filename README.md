@@ -27,7 +27,7 @@ Master's degree in computer science on [University of Bialystok](https://uwb.edu
   <li>Optimizing front-end applications using the example of React applications</li>
 </ul>
 
-<p>Specialized in <strong>TypeScript</strong> and <strong>Node.js</strong>, <strong>Angular/React</strong>, browser mechanics, micro front-end and front-end optimalization.</p>
+<p>Specialized in <strong>TypeScript</strong> and <strong>Node.js</strong>, <strong>Angular/React</strong>, browser mechanics, node.js ecosystem, front-end optimization and architecture.</p>
 
 <p>Personally a fan of the history of wars and history in general.</p>
 
