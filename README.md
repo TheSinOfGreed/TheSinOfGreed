@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/cf70d86a-cea3-4b3d-a40b-9218d9c88fec" alt="Opis zdjęcia">
   <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/9e625c97-f6dc-4981-ba63-0f017bd016f7" alt="Opis zdjęcia">
-  <img src="https://github.com/TheSinOfGreed/TheSinOfGreed/assets/80159294/b7cd2fca-f9ad-427b-961c-97790d541f72" alt="Opis zdjęcia">
+  
 </p>
 
 
@@ -27,7 +27,7 @@ Master's degree in computer science on [University of Bialystok](https://uwb.edu
   <li>Optimizing front-end applications using the example of React applications</li>
 </ul>
 
-<p>Specialized in <strong>TypeScript</strong> and <strong>.NET</strong>, <strong>Angular/React</strong>, browser mechanics, micro front-end and front-end optimalization.</p>
+<p>Specialized in <strong>TypeScript</strong> and <strong>Node.js</strong>, <strong>Angular/React</strong>, browser mechanics, micro front-end and front-end optimalization.</p>
 
 <p>Personally a fan of the history of wars and history in general.</p>
 
