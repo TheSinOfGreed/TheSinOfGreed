@@ -42,7 +42,7 @@ Master's degree in computer science on [University of Bialystok](https://uwb.edu
 MAIN STACK
 </pre>
   
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,react,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,react,nodejs,express)](https://skillicons.dev)
 
 </div>
 
